@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require './lib/dinosaur_dic'
+
+DinosaurDic::CLI.new.call
